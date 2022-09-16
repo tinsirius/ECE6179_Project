@@ -12,7 +12,7 @@ import sys
 import click
 import json
 
-TAG = "0.0.2"
+TAG = "0.0.3"
 
 class dataset_ECE6179:
     def __init__(self):
